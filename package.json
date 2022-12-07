@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "npm": "^8.18.0"
+  },
+  
+    "type": "module"
+  
+}
